@@ -14,7 +14,7 @@ namespace CoreApp.Pages
 
         public void OnGet()
         {
-            throw new Exception("error");
+
         }
     }
 }
